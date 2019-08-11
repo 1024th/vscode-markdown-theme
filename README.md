@@ -1,0 +1,1 @@
+Customize VS Code's built-in markdown preview style.

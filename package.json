@@ -1,0 +1,24 @@
+{
+	"name": "vscode-my-markdown-preview-styles",
+	"version": "0.0.1",
+	"displayName": "My Markdown Preview Styling",
+	"description": "Customize VS Code's built-in markdown preview style",
+	"keywords": [
+		"markdown",
+		"markdown style",
+		"markdown css"
+	],
+	"publisher": "LinTianchuan",
+	"engines": {
+		"vscode": "^1.15.0"
+	},
+	"categories": [
+		"Other"
+	],
+	"contributes": {
+		"markdown.previewStyles": [
+			"./base.css",
+			"./markdown.css"
+		]
+	}
+}
