@@ -3,6 +3,7 @@
 	"version": "0.0.1",
 	"displayName": "My Markdown Preview Styling",
 	"description": "Customize VS Code's built-in markdown preview style",
+	"repository": {"type": "git","url": "https://github.com/1024th/vscode-markdown-theme"},
 	"keywords": [
 		"markdown",
 		"markdown style",
